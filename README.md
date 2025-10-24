@@ -1,11 +1,9 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=Hi+there!+I'm+Rhealyn+Vasquez+👋;Frontend+Developer+🎨;UI%2FUX+Designer+✨" alt="Typing Animation" />
 </h1>
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212749447-9f9a4c0f-1bb0-47de-a46b-5fadb8b18a0e.gif" width="400px" alt="cyan glow">
 </p>
-
 
 ---
 
