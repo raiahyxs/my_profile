@@ -1,6 +1,11 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&color=6A5ACD&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Rhealyn+Vasquez+👋;Undergraduate+IT+Student+💻;Frontend+Developer+🎨;UI%2FUX+Designer+✨" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=Hi+there!+I'm+Rhealyn+Vasquez+👋;Frontend+Developer+🎨;UI%2FUX+Designer+✨" alt="Typing Animation" />
 </h1>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-9f9a4c0f-1bb0-47de-a46b-5fadb8b18a0e.gif" width="400px" alt="cyan glow">
+</p>
+
 
 ---
 
@@ -91,9 +96,6 @@ This repository contains **Jupyter Notebooks** for data analytics, demonstrating
   <img src="https://github-profile-trophy.vercel.app/?username=raiahyxs&theme=tokyonight&no-frame=true&margin-w=10" alt="GitHub Trophies" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/raiahyxs/raiahyxs/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
 
 ---
 
